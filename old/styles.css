@@ -9,12 +9,10 @@ h1 {
   font-size: 40px;
   padding: 5px;
   margin-top: 5px;
-  margin-bottom: 0;
   width: 100%;
 }
 .nav-bar{
   text-align: center;
-margin-top: 5px;
 }
 .nav-bar a{
   font-size: 20px;
@@ -26,7 +24,7 @@ margin-top: 5px;
 
 h2{
   background-color: rgb(160, 251, 211);
-  font-size: 20px;
+  font-size: 15px;
   padding: 10px;
 
 }
@@ -35,17 +33,18 @@ h2{
   text-decoration-color: #E3E055;
 }
 .container{
-  margin: 5%;
+  box-sizing: border-box;
+  text-align: center;
 }
 .photos{
-  text-align:  center;
-  margin: 0;
+  width: 20%;
+margin: 30px;
   display: inline-block;
 }
 .photos p{
   background-color: #FAD72B;
   text-align: center;
-  width: 200px;
+  width: 100%;
 }
 
 footer{
