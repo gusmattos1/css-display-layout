@@ -41,6 +41,12 @@ h2{
   text-align: center;
   margin: 20px 5%;
 }
+img{
+  height: auto;
+  width: auto;
+  max-width: 400px;
+  max-height: 600px;
+}
 .photos{
   margin: 10px 5px;
   display: inline-block;
