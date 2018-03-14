@@ -15,6 +15,7 @@ h1 {
 .nav-bar{
   text-align: center;
 margin-top: 5px;
+margin-bottom: 10px;
 }
 .nav-bar a{
   font-size: 20px;
@@ -28,6 +29,8 @@ h2{
   background-color: rgb(160, 251, 211);
   font-size: 20px;
   padding: 10px;
+  margin: 0 5%;
+
 
 }
 .number{
@@ -35,17 +38,19 @@ h2{
   text-decoration-color: #E3E055;
 }
 .container{
-  margin: 5%;
+  text-align: center;
+  margin: 20px 5%;
 }
 .photos{
-  text-align:  center;
-  margin: 0;
+  margin: 10px 5px;
   display: inline-block;
 }
 .photos p{
   background-color: #FAD72B;
   text-align: center;
-  width: 200px;
+  width: 100%;
+  padding: 5px 0;
+  margin: 5px 0;
 }
 
 footer{
